@@ -1,3 +1,6 @@
-# My Awesome Book
+# 一个人的WIKI
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+一直以来，我一直在找一个合适的WIKI系统，想好好整理整理我脑子里的胡子乱想和这些年学到的一点经验和知识。吾生也有涯，而知也无涯，其中少不了有错误，还是希望能和朋友们借这个平台好好交流，一同进步。
+
+
+
