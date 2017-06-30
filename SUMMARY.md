@@ -16,4 +16,8 @@
 * [数据清洗](shu-ju-qing-xi.md)
 * [机器学习算法](ji-qi-xue-xi-suan-fa.md)
 * [统计](tong-ji.md)
+* 和高斯有关的算法
+* 和贝叶斯有关的算法
+* [和SVM有关的算法](he-svm-you-guan-de-suan-fa.md)
+* [改变世界观的信息论](gai-bian-shi-jie-guan-de-xin-xi-lun.md)
 
