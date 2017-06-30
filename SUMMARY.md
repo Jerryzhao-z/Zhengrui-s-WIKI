@@ -5,7 +5,7 @@
 * [冯诺依曼和哈佛](feng-nuo-yi-man-he-ha-fo.md)
 * [计算机架构](ji-suan-ji-jia-gou.md)
 * [信号](xin-hao-he-bian-huan.md)
-* [变换](xin-hao-he-bian-huan.md)
+* 变换
 * [声音信号处理](sheng-yin-xin-hao-chu-li.md)
 * [传统图像信号处理](chuan-tong-tu-xiang-xin-hao-chu-li.md)
 * [视频处理](shi-pin-chu-li.md)
@@ -16,6 +16,5 @@
 * [数据清洗](shu-ju-qing-xi.md)
 * [机器学习算法](ji-qi-xue-xi-suan-fa.md)
 * [统计](tong-ji.md)
-* [和高斯有关的算法](he-gao-si-you-guan-de-suan-fa.md)
-* [冯诺依曼和哈佛](feng-nuo-yi-man-he-ha-fo.md)
+* 变换
 
