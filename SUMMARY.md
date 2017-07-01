@@ -20,4 +20,10 @@
 * 和贝叶斯有关的算法
 * [和SVM有关的算法](he-svm-you-guan-de-suan-fa.md)
 * [改变世界观的信息论](gai-bian-shi-jie-guan-de-xin-xi-lun.md)
+* 流型
+* kernels
+* PCA & kPCA
+* CCA & kCCA
+* ICA & kICA
+* K-mean & kernel K-mean
 
