@@ -26,4 +26,5 @@
 * [CCA & kCCA](cca-and-kcca.md)
 * [ICA & kICA](ica-and-kica.md)
 * [K-mean & kernel K-mean](k-mean-and-kernel-k-mean.md)
+* [chatbot](chatbot.md)
 
